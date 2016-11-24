@@ -5211,7 +5211,8 @@ msgstr[1] "RSS-Feeds"
 
 #: inc/central.class.php:171
 #, php-format
-msgid "For security reasons, please change the password for the default users: %s"
+msgid ""
+"For security reasons, please change the password for the default users: %s"
 msgstr "Aus Sicherheitsgründen sollten Sie das Passwort des Default-Benutzers ändern: %s"
 
 #: inc/central.class.php:180
@@ -6643,7 +6644,8 @@ msgstr "Genehmigungsanfrage an %s gesendet"
 
 #: inc/commonitilvalidation.class.php:291
 #, php-format
-msgid "The selected user (%s) has no valid email address. The request has been "
+msgid ""
+"The selected user (%s) has no valid email address. The request has been "
 "created, without email confirmation."
 msgstr "Der ausgewählte Benutzer (%s) hat keine gültige E-Mail-Adresse. Die Anfrage wurde erstellt, allerdings ohne E-Mail-Benachrichtigung."
 
@@ -6869,19 +6871,25 @@ msgid "Product ID"
 msgstr "Produktkennung"
 
 #: inc/computer.class.php:281 inc/computer_item.class.php:184
-msgid "Alternate username updated. The connected items have been updated using this alternate username."
+msgid ""
+"Alternate username updated. The connected items have been updated using this"
+"alternate username."
 msgstr "Kontakt aktualisiert. Die mit dem Kontakt verbunden Einträge wurden ebenfalls aktualisiert."
 
 #: inc/computer.class.php:336 inc/computer_item.class.php:173
-msgid "User or group updated. The connected items have been moved in the same values."
+msgid ""
+"User or group updated. The connected items have been moved in the same "
+"values."
 msgstr "Benutzer oder Gruppe aktualisiert. Die verbundenen Elemente wurden mit den selben Werten aktualisiert."
 
 #: inc/computer.class.php:376 inc/computer_item.class.php:193
-msgid "Status updated. The connected items have been updated using this status."
+msgid ""
+"Status updated. The connected items have been updated using this status."
 msgstr "Statusaktualisierung. Die verbundenen Elemente wurden gemäß des Status des Computers aktualisiert."
 
 #: inc/computer.class.php:419 inc/computer_item.class.php:158
-msgid "Location updated. The connected items have been moved in the same location."
+msgid ""
+"Location updated. The connected items have been moved in the same location."
 msgstr "Standort aktualisiert. Die verbundenen Elemente wurden mit den selben Werten aktualisiert."
 
 #. TRANS: %1$s is a string, %2$s a second one without spaces between them : to
@@ -7350,7 +7358,8 @@ msgid "Autocompletion of text fields"
 msgstr "Automatische Vervollständigung der Textfelder"
 
 #: inc/config.class.php:340
-msgid "Don't show search engine in dropdowns if the number of items is less than"
+msgid ""
+"Don't show search engine in dropdowns if the number of items is less than"
 msgstr "Such Maschine nicht in Dropdows anzeigen wenn der Anzahl Objekten kleiner ist als"
 
 #: inc/config.class.php:366
@@ -7562,7 +7571,9 @@ msgid "Enable login with external token"
 msgstr "Login mit externem Token aktivieren"
 
 #: inc/config.class.php:732
-msgid "Allow to login to api and get a session token with user external token. See Remote access key in user Settings tab"
+msgid ""
+"Allow to login to api and get a session token with user external token. See "
+"Remote access key in user Settings tab"
 msgstr "API Login mit session token und externem Nutzer token erlauben. Der zugehörige Remotezugriff-Schlüssel ist in den persönlichen Einstellungen hinterlegt."
 
 #: inc/config.class.php:750
@@ -7813,7 +7824,8 @@ msgid "Auto-lock Mode"
 msgstr "Auto-lock Modus"
 
 #: inc/config.class.php:1299
-msgid "Direct Notification (requester for unlock will be the notification sender)"
+msgid ""
+"Direct Notification (requester for unlock will be the notification sender)"
 msgstr "Direkte Benachrichtigung (Anforderer zum Aufheben der Sperre als Sender)"
 
 #: inc/config.class.php:1325 inc/config.class.php:1624
@@ -10115,7 +10127,9 @@ msgid "FQDN"
 msgstr "FQDN"
 
 #: inc/fqdn.class.php:63
-msgid "Fully Qualified Domain Name. Use the classical notation (labels separated by dots). For example: indepnet.net"
+msgid ""
+"Fully Qualified Domain Name. Use the classical notation (labels separated by"
+" dots). For example: indepnet.net"
 msgstr "Fully Qualified Domain Name. Bitte klassische Notation benutzen (Namensteile durch Punkte getrennt). Z.B.: indepnet.net"
 
 #: inc/fqdn.class.php:84
@@ -10368,7 +10382,9 @@ msgid "Selection too large, massive action disabled."
 msgstr "Auswahl zu groß, Batch-Aktualisierungen deaktiviert."
 
 #: inc/html.class.php:2950
-msgid "To increase the limit: change max_input_vars or suhosin.post.max_vars in php configuration."
+msgid ""
+"To increase the limit: change max_input_vars or suhosin.post.max_vars in php"
+" configuration."
 msgstr "Um den Limit zu erhöhen muss der Wert von max_input_vars oder von suhosin.post.max_vars in der php-Konfiguration geändert werden."
 
 #: inc/html.class.php:3486
@@ -11373,7 +11389,9 @@ msgid "Send alarms on receiver errors"
 msgstr "Benachrichtigung bei Fehlern beim E-Mail Empfang"
 
 #: inc/mailcollector.class.php:1738
-msgid "Your email could not be processed.\nIf the problem persists, contact the administrator"
+msgid ""
+"Your email could not be processed.\n"
+"If the problem persists, contact the administrator"
 msgstr "Ihre E-Mail konnte nicht verarbeiter werden.\nWenn das Problem weiterhin besteht, kontaktieren Sie Ihren Systemadministrator"
 
 #: inc/mailcollector.class.php:1749
@@ -11454,7 +11472,8 @@ msgid "or"
 msgstr "oder"
 
 #: inc/massiveaction.class.php:1064
-msgid "You can't delete that item by massive actions, because it has sub-items"
+msgid ""
+"You can't delete that item by massive actions, because it has sub-items"
 msgstr "Sie können diesen Eintrag nicht über die Mehrfachaktion löschen. Es hat untergeordnete Elemente."
 
 #: inc/massiveaction.class.php:1065 inc/massiveaction.class.php:1074
@@ -13899,7 +13918,9 @@ msgid "Hardware financial and administrative information"
 msgstr "Finanz- und Administrationsdaten zu Hardwareinventar"
 
 #: inc/report.class.php:98
-msgid "Other financial and administrative information (licenses, cartridges, consumables)"
+msgid ""
+"Other financial and administrative information (licenses, cartridges, "
+"consumables)"
 msgstr "Weitere Finanz- und Administrationsdaten (Lizenzen, Kartuschen, Verbrauchsmaterial)"
 
 #: inc/report.class.php:106 install/update_051_06.php:151
@@ -14190,7 +14211,9 @@ msgid "Use rule for"
 msgstr "Regel anwenden bei"
 
 #: inc/rule.class.php:997
-msgid "It is possible to affect the result of a regular expression using the string #0"
+msgid ""
+"It is possible to affect the result of a regular expression using the string"
+" #0"
 msgstr "Es ist möglich, das Ergebnis eines regulären Ausdrucks zu benutzen indem man #0 eingibt"
 
 #: inc/rule.class.php:1065
@@ -14524,7 +14547,9 @@ msgid "Warning before running rename based on the dictionary rules"
 msgstr "Warnung vor dem Wiederholen des Lexikons"
 
 #: inc/ruledictionnarysoftwarecollection.class.php:89
-msgid "Warning! This operation can put merged software in the dustbin.\nSure to notify your users."
+msgid ""
+"Warning! This operation can put merged software in the dustbin.<br>Sure to "
+"notify your users."
 msgstr "Warnung! Dieser Vorgang könnte zusammengeführte Software in den Papierkorb verschieben. <br> Bitte benachrichtigen Sie Ihre Benutzer."
 
 #: inc/ruledictionnarysoftwarecollection.class.php:91
@@ -14700,7 +14725,9 @@ msgid "Rules for assigning a category to software"
 msgstr "Regeln, die eine Software einer Kategorie zuweisen"
 
 #: inc/ruleticket.class.php:111
-msgid "Urgency or impact used in actions, think to add Prioriy: recompute action if needed."
+msgid ""
+"Urgency or impact used in actions, think to add Prioriy: recompute action if"
+" needed."
 msgstr "Dringlichkeit oder Auswirkung, welche in der Aktion gewählt wurde, verlangt eine Erhöhung der Priorität. Aktion neu berechnen falls nötig."
 
 #: inc/ruleticket.class.php:353
@@ -14777,7 +14804,9 @@ msgid "You don't have right to connect"
 msgstr "Sie haben keine Berechtigung für die Anmeldung"
 
 #: inc/session.class.php:163
-msgid "You don't have access to this application because your account was deactivated or removed"
+msgid ""
+"You don't have access to this application because your account was "
+"deactivated or removed"
 msgstr "Sie haben keinen Zugriff zu dieser Anwendung, weil Ihr Konto deaktiviert oder gelöscht wurde."
 
 #: inc/session.class.php:369 inc/session.class.php:372
@@ -14857,7 +14886,8 @@ msgid "Also delete date ?"
 msgstr "Datum auch löschen?"
 
 #: inc/slt.class.php:573
-msgid "The assignment of a SLT to a ticket causes the recalculation of the date."
+msgid ""
+"The assignment of a SLT to a ticket causes the recalculation of the date."
 msgstr "Die Zuordnung eines SLT zu einem Ticket erfordert die Neukalkulation des Datums."
 
 #: inc/slt.class.php:574
@@ -14928,7 +14958,9 @@ msgid "Never expire"
 msgstr "Lauft nie ab"
 
 #: inc/softwarelicense.class.php:426
-msgid "On search engine, use \"Expiration contains NULL\" to search licenses with no expiration date"
+msgid ""
+"On search engine, use \"Expiration contains NULL\" to search licenses with "
+"no expiration date"
 msgstr "Bei der Suchmaschine, \"Expiration contaiins NULL\"  verwenden um Lizenz ohne Ablaufsdatum zu suchen. "
 
 #: inc/softwarelicense.class.php:530
@@ -15605,7 +15637,8 @@ msgid "Testing PHP Parser"
 msgstr "PHP Parser wird getestet"
 
 #: inc/toolbox.class.php:863
-msgid "GLPI is not compatible with the option zend.ze1_compatibility_mode = On."
+msgid ""
+"GLPI is not compatible with the option zend.ze1_compatibility_mode = On."
 msgstr "GLPI ist nicht kompatibel mit der Direktive zend.ze1_compatibility_mode = On."
 
 #: inc/toolbox.class.php:867 inc/toolbox.class.php:868
@@ -15649,7 +15682,9 @@ msgid "Test session auto start"
 msgstr "Automatischer Start der Testsitzung"
 
 #: inc/toolbox.class.php:921
-msgid "session.auto_start is activated. See .htaccess file in the GLPI root for more information."
+msgid ""
+"session.auto_start is activated. See .htaccess file in the GLPI root for "
+"more information."
 msgstr "session.auto_start ist aktiv. Siehe Datei .htaccess im GLPI Wurzelverzeichnis für weitere Information."
 
 #: inc/toolbox.class.php:928
@@ -15695,7 +15730,8 @@ msgid "Test json functions"
 msgstr "JSON Funktionen testen"
 
 #: inc/toolbox.class.php:979
-msgid "GLPI can't work correctly without the json_encode and json_decode functions"
+msgid ""
+"GLPI can't work correctly without the json_encode and json_decode functions"
 msgstr "GLPI kann nicht korrekt ohne die json_encode und json_decode Funktionen arbeiten."
 
 #: inc/toolbox.class.php:991
@@ -15888,23 +15924,33 @@ msgid "Port (optional)"
 msgstr "Port (optional)"
 
 #: inc/toolbox.class.php:2446
-msgid "No HTTP_REFERER found in request. Reload previous page before doing action again."
+msgid ""
+"No HTTP_REFERER found in request. Reload previous page before doing action "
+"again."
 msgstr ""
 
 #: inc/toolbox.class.php:2453
-msgid "Error when parsing HTTP_REFERER. Reload previous page before doing action again."
+msgid ""
+"Error when parsing HTTP_REFERER. Reload previous page before doing action "
+"again."
 msgstr ""
 
 #: inc/toolbox.class.php:2464
-msgid "None or Invalid host in HTTP_REFERER. Reload previous page before doing action again."
+msgid ""
+"None or Invalid host in HTTP_REFERER. Reload previous page before doing "
+"action again."
 msgstr ""
 
 #: inc/toolbox.class.php:2474
-msgid "None or Invalid path in HTTP_REFERER. Reload previous page before doing action again."
+msgid ""
+"None or Invalid path in HTTP_REFERER. Reload previous page before doing "
+"action again."
 msgstr ""
 
 #: inc/toolbox.class.php:2481
-msgid "The action you have requested is not allowed. Reload previous page before doing action again."
+msgid ""
+"The action you have requested is not allowed. Reload previous page before "
+"doing action again."
 msgstr "Der Vorgang, den den Sie angefordert haben, ist nicht erlaubt. Bitte laden Sie die vorhergehende Seite neu, bervor Sie den Vorgang wiederholen."
 
 #: inc/transfer.class.php:3308 inc/transfer.class.php:3315
@@ -15980,7 +16026,9 @@ msgid "If contracts are no longer used"
 msgstr "Wenn Verträge nicht länger verwendet werden"
 
 #: inc/transfer.class.php:3472
-msgid "You can continue to add elements to be transferred or execute the transfer now"
+msgid ""
+"You can continue to add elements to be transferred or execute the transfer "
+"now"
 msgstr "Sie können weitere Elemente für die Übertragung hinzufügen oder die aktuell hinzugefügten sofort übertragen."
 
 #: inc/transfer.class.php:3473
@@ -16152,11 +16200,14 @@ msgid "Please confirm your email address and enter your new password."
 msgstr "Bitte bestätigen Sie Ihre E-Mail Adresse und geben Sie Ihr neues Passwort ein."
 
 #: inc/user.class.php:3843 inc/user.class.php:3911
-msgid "Your password reset request has expired or is invalid. Please renew it."
+msgid ""
+"Your password reset request has expired or is invalid. Please renew it."
 msgstr "Ihr Anfrage zum Rücksetzen des Passwortes ist nicht mehr gültig. Bitte setzen Sie es erneut zurück."
 
 #: inc/user.class.php:3862
-msgid "Please enter your email address. An email will be sent to you and you will be able to choose a new password."
+msgid ""
+"Please enter your email address. An email will be sent to you and you will "
+"be able to choose a new password."
 msgstr "Bitte geben Sie Ihre E-Mail-Adresse ein. Sie bekommen dann eine E-Mail und können ein neues Passwort vergeben."
 
 #: inc/user.class.php:3899
@@ -16174,7 +16225,9 @@ msgid "Email address not found."
 msgstr "Email Adresse wurde nicht gefunden."
 
 #: inc/user.class.php:3959
-msgid "An email has been sent to your email address. The email contains information for reset your password."
+msgid ""
+"An email has been sent to your email address. The email contains information"
+" for reset your password."
 msgstr "Es wurde eine Email an Ihre Mailadresse gesendet. Diese Mail enthält Informationen zum Rücksetzen Ihres Passworts."
 
 #: inc/user.class.php:3993
@@ -16284,11 +16337,13 @@ msgid "Choose 'Install' for a completely new installation of GLPI."
 msgstr "Wählen Sie 'Installieren' für eine komplett neue Installation von GLPI."
 
 #: install/install.php:142
-msgid "Select 'Upgrade' to update your version of GLPI from an earlier version"
+msgid ""
+"Select 'Upgrade' to update your version of GLPI from an earlier version"
 msgstr "'Update' auswählen, um von einer installierten früheren Version auf die aktuelle Version umzusteigen"
 
 #: install/install.php:162
-msgid "Checking of the compatibility of your environment with the execution of GLPI"
+msgid ""
+"Checking of the compatibility of your environment with the execution of GLPI"
 msgstr "Die Kompatibilität von GLPI mit der vorhandenen Konfiguration wird überprüft"
 
 #: install/install.php:181 install/install.php:200 install/install.php:497
@@ -16398,7 +16453,8 @@ msgid "Use GLPI"
 msgstr "GLPI benutzen"
 
 #: install/install.php:496
-msgid "Can't create the database connection file, please verify file permissions."
+msgid ""
+"Can't create the database connection file, please verify file permissions."
 msgstr "Verbindungsdatei für Datenbank kann nicht erstellt werden. Bitte Berechtigungen prüfen."
 
 #: install/install.php:566
